@@ -49,7 +49,7 @@ To build the Android demo, see dedicated section below.
 Run the test suite to make sure the BilateralSlice operator works correctly:
 
     cd hdrnet
-    py.test test
+    py test/ops_test.py
 
 ### Download pretrained models
 
